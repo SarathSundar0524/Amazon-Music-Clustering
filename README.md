@@ -3,9 +3,6 @@
 ## Project Overview
 This project focuses on grouping Amazon Music tracks into meaningful clusters using unsupervised machine learning. Instead of relying on predefined genre labels, songs are clustered based purely on their audio characteristics, allowing hidden patterns and musical similarities to emerge.
 
----
-
-## Project Overview
 
 ### 1. Data Understanding & Cleaning
 - Loaded the Amazon Music audio dataset.
