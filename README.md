@@ -5,7 +5,7 @@ This project focuses on grouping Amazon Music tracks into meaningful clusters us
 
 ---
 
-## What I Did in This Project
+## Project Overview
 
 ### 1. Data Understanding & Cleaning
 - Loaded the Amazon Music audio dataset.
